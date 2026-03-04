@@ -1,3 +1,5 @@
+Youtube Linki: https://youtube.com/shorts/uqifAAGKD8o?feature=share
+
 # 🏥 MomyCare - Modern Sağlık İzleme
 
 Modern ve kullanıcı dostu bir sağlık izleme uygulaması. Kan şekeri takibi, fiziksel aktivite kaydı ve beslenme değerlendirmesi gibi temel özelliklere sahip, şık bir arayüz sunar.
